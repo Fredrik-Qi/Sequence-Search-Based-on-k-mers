@@ -1,0 +1,4 @@
+read1	ref1	4	0
+read1	ref2	18	0
+read2	ref1	18	0
+read2	ref2	4	0
